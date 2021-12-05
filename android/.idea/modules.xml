@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/OpenHouse.iml" filepath="$PROJECT_DIR$/.idea/modules/OpenHouse.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/app/OpenHouse.app.iml" filepath="$PROJECT_DIR$/.idea/modules/app/OpenHouse.app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-806210286/OpenHouse.gregfrench_react-native-wheel-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-806210286/OpenHouse.gregfrench_react-native-wheel-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1291193809/OpenHouse.invertase_react-native-apple-authentication.iml" filepath="$PROJECT_DIR$/.idea/modules/-1291193809/OpenHouse.invertase_react-native-apple-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1231187525/OpenHouse.react-native-apple-authentication.iml" filepath="$PROJECT_DIR$/.idea/modules/1231187525/OpenHouse.react-native-apple-authentication.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-951756434/OpenHouse.react-native-community_async-storage.iml" filepath="$PROJECT_DIR$/.idea/modules/-951756434/OpenHouse.react-native-community_async-storage.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/938768831/OpenHouse.react-native-community_checkbox.iml" filepath="$PROJECT_DIR$/.idea/modules/938768831/OpenHouse.react-native-community_checkbox.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1074482885/OpenHouse.react-native-community_datetimepicker.iml" filepath="$PROJECT_DIR$/.idea/modules/1074482885/OpenHouse.react-native-community_datetimepicker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1192310710/OpenHouse.react-native-community_geolocation.iml" filepath="$PROJECT_DIR$/.idea/modules/-1192310710/OpenHouse.react-native-community_geolocation.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2003379462/OpenHouse.react-native-community_google-signin.iml" filepath="$PROJECT_DIR$/.idea/modules/-2003379462/OpenHouse.react-native-community_google-signin.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-2125054997/OpenHouse.react-native-community_masked-view.iml" filepath="$PROJECT_DIR$/.idea/modules/-2125054997/OpenHouse.react-native-community_masked-view.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1652105866/OpenHouse.react-native-community_picker.iml" filepath="$PROJECT_DIR$/.idea/modules/1652105866/OpenHouse.react-native-community_picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/2023781024/OpenHouse.react-native-dark-mode.iml" filepath="$PROJECT_DIR$/.idea/modules/2023781024/OpenHouse.react-native-dark-mode.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1631088124/OpenHouse.react-native-fbsdk.iml" filepath="$PROJECT_DIR$/.idea/modules/-1631088124/OpenHouse.react-native-fbsdk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-483374260/OpenHouse.react-native-gesture-handler.iml" filepath="$PROJECT_DIR$/.idea/modules/-483374260/OpenHouse.react-native-gesture-handler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-802293282/OpenHouse.react-native-iap.iml" filepath="$PROJECT_DIR$/.idea/modules/-802293282/OpenHouse.react-native-iap.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1370041542/OpenHouse.react-native-image-picker.iml" filepath="$PROJECT_DIR$/.idea/modules/-1370041542/OpenHouse.react-native-image-picker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-729458425/OpenHouse.react-native-maps.iml" filepath="$PROJECT_DIR$/.idea/modules/-729458425/OpenHouse.react-native-maps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-1406867958/OpenHouse.react-native-permissions.iml" filepath="$PROJECT_DIR$/.idea/modules/-1406867958/OpenHouse.react-native-permissions.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/23725653/OpenHouse.react-native-preference.iml" filepath="$PROJECT_DIR$/.idea/modules/23725653/OpenHouse.react-native-preference.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1280144208/OpenHouse.react-native-reanimated.iml" filepath="$PROJECT_DIR$/.idea/modules/1280144208/OpenHouse.react-native-reanimated.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-14827339/OpenHouse.react-native-safe-area-context.iml" filepath="$PROJECT_DIR$/.idea/modules/-14827339/OpenHouse.react-native-safe-area-context.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1834716941/OpenHouse.react-native-screens.iml" filepath="$PROJECT_DIR$/.idea/modules/1834716941/OpenHouse.react-native-screens.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-749093859/OpenHouse.react-native-settings.iml" filepath="$PROJECT_DIR$/.idea/modules/-749093859/OpenHouse.react-native-settings.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/255225866/OpenHouse.react-native-vector-icons.iml" filepath="$PROJECT_DIR$/.idea/modules/255225866/OpenHouse.react-native-vector-icons.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1221079937/OpenHouse.react-native-video.iml" filepath="$PROJECT_DIR$/.idea/modules/1221079937/OpenHouse.react-native-video.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-496496332/OpenHouse.rn-range-slider.iml" filepath="$PROJECT_DIR$/.idea/modules/-496496332/OpenHouse.rn-range-slider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/-669867881/OpenHouse.tipsi-stripe.iml" filepath="$PROJECT_DIR$/.idea/modules/-669867881/OpenHouse.tipsi-stripe.iml" />
+    </modules>
+  </component>
+</project>

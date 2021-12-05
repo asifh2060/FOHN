@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>404084199778-jc5nkjh16i760ofq3jsjovbs2i6oi9pe.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.404084199778-jc5nkjh16i760ofq3jsjovbs2i6oi9pe</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>404084199778-snuomhvf4u5tl1cernq0plg8p5rp23tn.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC2FuWdo3yvI5Gek5_lzd2gN1tYgVhyOeE</string>
+	<key>GCM_SENDER_ID</key>
+	<string>404084199778</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.rn.OpenForHouse</string>
+	<key>PROJECT_ID</key>
+	<string>find-open-house</string>
+	<key>STORAGE_BUCKET</key>
+	<string>find-open-house.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:404084199778:ios:aba7e1f73ae19d22aa9c3b</string>
+</dict>
+</plist>

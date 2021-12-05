@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "404084199778",
+    "project_id": "find-open-house",
+    "storage_bucket": "find-open-house.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:404084199778:android:81717b800baec04daa9c3b",
+        "android_client_info": {
+          "package_name": "com.rn.openforhouse"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "404084199778-snuomhvf4u5tl1cernq0plg8p5rp23tn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rn.openforhouse",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "404084199778-7ec117h1d9fkc4smos8hddobmp27ontp.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDxlUyDDSCWPZ39v4PuJ11Lmh2BzFWg00k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "404084199778-7ec117h1d9fkc4smos8hddobmp27ontp.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

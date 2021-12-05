@@ -1,0 +1,16 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.tipsi:CreditCardEntry:1.5.1@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05b6ae8b78badd77e9c00d15872be970/jetified-CreditCardEntry-1.5.1/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05b6ae8b78badd77e9c00d15872be970/jetified-CreditCardEntry-1.5.1/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/05b6ae8b78badd77e9c00d15872be970/jetified-CreditCardEntry-1.5.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/195a09507841f5f703d73fca6dc45a93/jetified-CreditCardEntry-1.5.1/AndroidManifest.xml" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/195a09507841f5f703d73fca6dc45a93/jetified-CreditCardEntry-1.5.1/res" />
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/195a09507841f5f703d73fca6dc45a93/jetified-CreditCardEntry-1.5.1/jars/classes.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.tipsi/CreditCardEntry/1.5.1/c6916a215259a0d1d3c04c6b8e23f68802608678/CreditCardEntry-1.5.1-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

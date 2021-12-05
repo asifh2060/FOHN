@@ -1,0 +1,964 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:1-29:12
+MERGED from [:gregfrench_react-native-wheel-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@gregfrench\react-native-wheel-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:invertase_react-native-apple-authentication] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@invertase\react-native-apple-authentication\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-community_async-storage] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_checkbox] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\checkbox\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_datetimepicker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-community_geolocation] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_google-signin] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\google-signin\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-community_masked-view] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-community_picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-apple-authentication] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-apple-authentication\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-dark-mode] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-13:12
+MERGED from [:react-native-fbsdk] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:1-28:12
+MERGED from [:react-native-gesture-handler] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-iap] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-iap\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-21:12
+MERGED from [:react-native-maps] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-12:12
+MERGED from [:react-native-permissions] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-permissions\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-preference] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-preference\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-reanimated] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-safe-area-context] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-9:12
+MERGED from [:react-native-screens] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-settings] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-settings\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-vector-icons] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:react-native-video] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-video\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:rn-range-slider] C:\Users\Asif Hayat\Downloads\Archive\node_modules\rn-range-slider\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-11:12
+MERGED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:2:1-33:12
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\949f0da900174d75f859b0b18417e89a\jetified-react-native-0.62.2\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c2e259bbee742e175d5627c3cd894b3\facebook-android-sdk-4.42.0\AndroidManifest.xml:21:1-31:12
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\771410fc11db6cb0b8dfc4dd0e6f5f50\multidex-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\184cb11431c6d82b6a40d6a9ebb353de\fresco-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:2:1-26:12
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ce2a33326d3ec635c92a605e8d0c2d79\animated-gif-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.android:facebook-login:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\5ea6617b81667828c2acd57ab4a13171\facebook-login-7.1.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73a78ae790d6f40ab59bab17907f89e9\facebook-share-7.1.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:21:1-52:12
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\34c516ce44bd844d180db4e76fd54904\browser-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\95ee9f2b31970141c9161383f489e898\legacy-support-v4-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.github.tipsi:CreditCardEntry:1.5.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\195a09507841f5f703d73fca6dc45a93\jetified-CreditCardEntry-1.5.1\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\d7f9cb6975ea0469ee210ab794bff94a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\07b06405b39b3be793357b01e5d1b214\swiperefreshlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f14551450b2d2daff74155cc82c0699e\android-jsc-r245459\AndroidManifest.xml:2:1-11:12
+MERGED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:2:1-27:12
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\2fbc5b63809d7b06a5c184a2cf9a6b61\material-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ce1b988f6a4376bb1cae9ad2fe2be66\appcompat-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0ed43cca7ee2e11d410a6589032888f1\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-base:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\680b7e99e385aaf53d919af37038205a\animated-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\fab922b9a3c2bf8e98f8b843fe6abd97\animated-drawable-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b031ca23cdf9ac98a528dbb75f351c9e\drawee-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\48e3857c086b333d5379b2b00705947f\nativeimagefilters-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ece4d4f1034e92606a840e9ead9b4faa\imagepipeline-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9de5520ee90f1216a891023c2978a8c2\nativeimagetranscoder-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0c80b6cfb6ed6ea8a04d49c4ee1a32d5\imagepipeline-base-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c534e0f8225a37890bfa0251eab02249\soloader-0.8.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e479145edfb9b8ea87376f131c32fe04\facebook-places-4.42.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8cb82247b8feea37f655c3b050625d31\facebook-applinks-4.42.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\69ef40a0f820a4c45af38cc3bdfc9cb0\facebook-messenger-4.42.0\AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:21:1-53:12
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\94794cdb3c6394b2576413964fd6325a\jetified-fbcore-2.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.braintreepayments.api:visa-checkout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0a0b05dfa94fbc9980a063f983fecd68\jetified-visa-checkout-1.0.0\AndroidManifest.xml:2:1-12:12
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8484a7e728b1ecd07c230706606d05b7\jetified-paypal-one-touch-2.17.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.braintreepayments.api:core:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1d4c000978ebe04b4323929ec5bb0deb\jetified-core-2.17.0\AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b40f5ce830d02bb669e19b6cee647d34\appcompat-resources-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\31425e92ccf980736d3f0d9041b4c77b\vectordrawable-animated-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bc80d9d3a673639deeedbf9ccbec7692\interpolator-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e98b461c5c1f5bd04c7afb8d23cd7eea\core-ktx-1.3.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:17:1-39:12
+MERGED from [com.google.android.gms:play-services-wallet:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\794b53cf168f83473f2e7756f3d9042a\play-services-wallet-17.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:17:1-38:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\145039580fb3d235431c1c8afab658b7\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9c8ed2ab29239ad8b6dd515732be31bf\play-services-auth-base-17.0.0\AndroidManifest.xml:2:1-7:12
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b167bc144fd8d49a3c20afcf1f5e14cb\play-services-identity-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\914e71b40bccc52ecf5145f0b88c040e\firebase-core-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\008c59bfd43fac15ffc3d4b5d43bed5b\firebase-analytics-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:17:1-36:12
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:17:1-59:12
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bee2694cbec938e19b580b4cbda96511\firebase-iid-interop-17.0.0\AndroidManifest.xml:2:1-10:12
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:17:1-29:12
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:2:1-19:12
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c74caaeb77f4dc0290281c95009ceaa\play-services-tasks-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:17:1-55:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0267245becba42ae9fc881132a8e1725\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:17:1-40:12
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6d1209bfd56ba51efa8a191d7ee50bce\play-services-measurement-base-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\87d3493ca0b17e21dbef960e4d009c72\play-services-stats-17.0.0\AndroidManifest.xml:2:1-9:12
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ca93dfa3f11252b293377665a3c68c9\jetified-firebase-measurement-connector-17.0.0\AndroidManifest.xml:17:1-25:12
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\74331e07bc88bc55ed7dafa4063f7646\play-services-ads-identifier-17.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:17:1-28:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\62a02c76b665b9dd39e11f26b60878a2\viewpager2-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment:1.3.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\104a9e3a7fc4e02ab971e4b9f1294914\fragment-1.3.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9252f6e71b4c1f4d269698426aa2ce3a\coordinatorlayout-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1e14f676b2d5e21c01d3dc462d8d2a26\cardview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\27dd7a083dc6509bedb99b9b92bd0728\viewpager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\46c5116914a0df4d51f5c3da352a5baa\legacy-support-core-utils-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\114421f37d2c61ce454fb0696b05d7af\loader-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.activity:activity:1.2.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\96bf335a39103e90c3ddefa0e8e9d3c4\activity-1.2.2\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bdcd414909f3da4267ca0087d1b83b55\drawerlayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c95761e43dad87bc7c668723dc8469a5\slidingpanelayout-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f4fa81712f689164b9674461b711b992\recyclerview-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\712628738107de7d50bc462e3ee4856f\customview-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\38c4315b1f8465e740e8cdca8784edcd\transition-1.2.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4e050a5b705b14f79da02806d5fe0d49\vectordrawable-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4892cffec80ea538e461c609af55fb98\media-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\3c06f73da226d7eef38ff80d69297a5f\asynclayoutinflater-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c2e09830689c9704bd657110dbc2432d\core-1.3.0\AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\af5c786a454f82b1d6cdd4c33732b9b8\versionedparcelable-1.1.0\AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\5530ffb07103015ce7fe05d14dcee130\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\28c775e91aea1d4fc36ed6149af27411\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\be0a8b4b8fbb9ddd5b015953bcf05033\savedstate-1.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c4ba048c033fde3d9a1f7a09cf890449\cursoradapter-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\66a41da43a8d74d61af476d9dbcfc013\lifecycle-runtime-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4fe151db6da6e3e788b713ccbea8e0ba\tracing-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0bf038920b7c5c30d6710a6731ce4014\lifecycle-livedata-2.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4c7b822a31cafea7013e8cabaed420ea\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\016c21bedda6fcb93a33319a1e9fcce4\core-runtime-2.1.0\AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dd740fc1814679da772ff670ef447f4d\documentfile-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8380db55bc9cc848ec419c9f40fc60e5\localbroadcastmanager-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\61077e195348424e867b64910f42800b\print-1.0.0\AndroidManifest.xml:17:1-22:12
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f9f7f0ffa347816ca7ff32fddc368633\WheelPicker-1.0.3\AndroidManifest.xml:2:1-12:12
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:2:1-23:12
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f0413872e816ea70264aa4590f271f9e\jetified-android-maps-utils-0.5\AndroidManifest.xml:2:1-13:12
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\a781144d00017143bb580ebbea4a11f2\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:2:1-12:12
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\19bdee4a7084687ef98c18ffb299560f\annotation-0.8.0\AndroidManifest.xml:2:1-13:12
+MERGED from [com.braintreepayments:browser-switch:0.1.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e3731a764aeefeff40a8679067edd538\jetified-browser-switch-0.1.5\AndroidManifest.xml:2:1-12:12
+MERGED from [com.paypal.android.sdk:data-collector:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ef0714b6b3ab2106588abe1e09725811\jetified-data-collector-2.17.0\AndroidManifest.xml:2:1-13:12
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b68abb5f9fbf9510a61dedf242bd3c08\annotation-experimental-1.0.0\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\aba0efe0a5c4a1dd4d5185f3b6b49394\jetified-installreferrer-1.0\AndroidManifest.xml:2:1-13:12
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:1-29:12
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:1-29:12
+	package
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:70-99
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+	android:versionCode
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:1-29:12
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:1:11-69
+uses-permission#android.permission.INTERNET
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:3:3-65
+MERGED from [:react-native-maps] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [:react-native-maps] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-67
+MERGED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:12:5-67
+MERGED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:12:5-67
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8484a7e728b1ecd07c230706606d05b7\jetified-paypal-one-touch-2.17.0\AndroidManifest.xml:11:5-67
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8484a7e728b1ecd07c230706606d05b7\jetified-paypal-one-touch-2.17.0\AndroidManifest.xml:11:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:22:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:23:5-67
+MERGED from [com.paypal.android.sdk:data-collector:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ef0714b6b3ab2106588abe1e09725811\jetified-data-collector-2.17.0\AndroidManifest.xml:11:5-67
+MERGED from [com.paypal.android.sdk:data-collector:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ef0714b6b3ab2106588abe1e09725811\jetified-data-collector-2.17.0\AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:3:20-62
+uses-permission#android.permission.CAMERA
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:4:3-63
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:4:20-60
+uses-permission#android.permission.READ_EXTERNAL_STORAGE
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:5:3-78
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:5:20-75
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:6:3-79
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:6:20-76
+uses-permission#android.permission.SYSTEM_ALERT_WINDOW
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:7:3-76
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:7:20-73
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:8:3-77
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:8:20-74
+application
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:10:3-28:17
+MERGED from [:react-native-community_datetimepicker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-community_datetimepicker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-dark-mode] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-dark-mode] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-20
+MERGED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:9:5-19:19
+MERGED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-31:19
+MERGED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:5-31:19
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\949f0da900174d75f859b0b18417e89a\jetified-react-native-0.62.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\949f0da900174d75f859b0b18417e89a\jetified-react-native-0.62.2\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c2e259bbee742e175d5627c3cd894b3\facebook-android-sdk-4.42.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c2e259bbee742e175d5627c3cd894b3\facebook-android-sdk-4.42.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:14:5-24:19
+MERGED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:14:5-24:19
+MERGED from [com.facebook.android:facebook-login:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\5ea6617b81667828c2acd57ab4a13171\facebook-login-7.1.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\5ea6617b81667828c2acd57ab4a13171\facebook-login-7.1.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73a78ae790d6f40ab59bab17907f89e9\facebook-share-7.1.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73a78ae790d6f40ab59bab17907f89e9\facebook-share-7.1.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:29:5-50:19
+MERGED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:29:5-50:19
+MERGED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:11:5-25:19
+MERGED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:11:5-25:19
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\2fbc5b63809d7b06a5c184a2cf9a6b61\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\2fbc5b63809d7b06a5c184a2cf9a6b61\material-1.1.0\AndroidManifest.xml:22:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c534e0f8225a37890bfa0251eab02249\soloader-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c534e0f8225a37890bfa0251eab02249\soloader-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e479145edfb9b8ea87376f131c32fe04\facebook-places-4.42.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e479145edfb9b8ea87376f131c32fe04\facebook-places-4.42.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8cb82247b8feea37f655c3b050625d31\facebook-applinks-4.42.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8cb82247b8feea37f655c3b050625d31\facebook-applinks-4.42.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\69ef40a0f820a4c45af38cc3bdfc9cb0\facebook-messenger-4.42.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\69ef40a0f820a4c45af38cc3bdfc9cb0\facebook-messenger-4.42.0\AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:28:5-51:19
+MERGED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:28:5-51:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:22:5-37:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:30:5-36:19
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b167bc144fd8d49a3c20afcf1f5e14cb\play-services-identity-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b167bc144fd8d49a3c20afcf1f5e14cb\play-services-identity-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\914e71b40bccc52ecf5145f0b88c040e\firebase-core-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\914e71b40bccc52ecf5145f0b88c040e\firebase-core-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\008c59bfd43fac15ffc3d4b5d43bed5b\firebase-analytics-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\008c59bfd43fac15ffc3d4b5d43bed5b\firebase-analytics-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:26:5-34:19
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:28:5-57:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bee2694cbec938e19b580b4cbda96511\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bee2694cbec938e19b580b4cbda96511\firebase-iid-interop-17.0.0\AndroidManifest.xml:7:5-8:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:22:5-27:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:11:5-17:19
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c74caaeb77f4dc0290281c95009ceaa\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c74caaeb77f4dc0290281c95009ceaa\play-services-tasks-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:28:5-53:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0267245becba42ae9fc881132a8e1725\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0267245becba42ae9fc881132a8e1725\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:28:5-38:19
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6d1209bfd56ba51efa8a191d7ee50bce\play-services-measurement-base-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6d1209bfd56ba51efa8a191d7ee50bce\play-services-measurement-base-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\87d3493ca0b17e21dbef960e4d009c72\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\87d3493ca0b17e21dbef960e4d009c72\play-services-stats-17.0.0\AndroidManifest.xml:7:5-20
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ca93dfa3f11252b293377665a3c68c9\jetified-firebase-measurement-connector-17.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ca93dfa3f11252b293377665a3c68c9\jetified-firebase-measurement-connector-17.0.0\AndroidManifest.xml:22:5-23:19
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\74331e07bc88bc55ed7dafa4063f7646\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\74331e07bc88bc55ed7dafa4063f7646\play-services-ads-identifier-17.0.0\AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:22:5-26:19
+MERGED from [androidx.core:core:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c2e09830689c9704bd657110dbc2432d\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c2e09830689c9704bd657110dbc2432d\core-1.3.0\AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\af5c786a454f82b1d6cdd4c33732b9b8\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\af5c786a454f82b1d6cdd4c33732b9b8\versionedparcelable-1.1.0\AndroidManifest.xml:24:5-25:19
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:12:5-21:19
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:12:5-21:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f0413872e816ea70264aa4590f271f9e\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f0413872e816ea70264aa4590f271f9e\jetified-android-maps-utils-0.5\AndroidManifest.xml:7:5-11:19
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\19bdee4a7084687ef98c18ffb299560f\annotation-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\19bdee4a7084687ef98c18ffb299560f\annotation-0.8.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\aba0efe0a5c4a1dd4d5185f3b6b49394\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\aba0efe0a5c4a1dd4d5185f3b6b49394\jetified-installreferrer-1.0\AndroidManifest.xml:11:5-20
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c2e09830689c9704bd657110dbc2432d\core-1.3.0\AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c2e259bbee742e175d5627c3cd894b3\facebook-android-sdk-4.42.0\AndroidManifest.xml:28:18-44
+	android:label
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:35-67
+	android:roundIcon
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:103-148
+	android:icon
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:68-102
+	android:allowBackup
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:149-176
+	android:theme
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:12:4-35
+	android:usesCleartextTraffic
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:13:4-39
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:3-34
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:14:5-103
+	android:value
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:14:62-101
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:14:16-61
+activity#com.facebook.FacebookActivity
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:16:5-17:114
+MERGED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:30:9-33:66
+MERGED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:30:9-33:66
+	android:label
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:17:79-111
+	android:configChanges
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:16:60-160
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:33:13-63
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:16:15-59
+activity#com.facebook.CustomTabActivity
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:18:5-19:16
+MERGED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:35:9-49:20
+MERGED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:35:9-49:20
+	tools:node
+		ADDED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:38:13-31
+	android:exported
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:18:61-84
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:18:15-60
+meta-data#com.google.android.geo.API_KEY
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:20:5-120
+	android:value
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:20:62-117
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:20:16-61
+activity#com.rn.openforhouse.MainActivity
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:5-26:16
+	android:label
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:44-76
+	android:launchMode
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:155-186
+	android:windowSoftInputMode
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:187-229
+	android:configChanges
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:77-154
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:15-43
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:22:7-25:23
+action#android.intent.action.MAIN
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:23:9-61
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:23:17-58
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:24:9-69
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:24:19-66
+activity#com.facebook.react.devsupport.DevSettingsActivity
+ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:27:5-82
+	android:name
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:27:15-79
+uses-sdk
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+MERGED from [:gregfrench_react-native-wheel-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@gregfrench\react-native-wheel-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:gregfrench_react-native-wheel-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@gregfrench\react-native-wheel-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:invertase_react-native-apple-authentication] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@invertase\react-native-apple-authentication\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:invertase_react-native-apple-authentication] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@invertase\react-native-apple-authentication\android\build\intermediates\library_manifest\release\AndroidManifest.xml:8:5-10:41
+MERGED from [:react-native-community_async-storage] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_async-storage] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\async-storage\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\checkbox\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_checkbox] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\checkbox\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_datetimepicker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\datetimepicker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_geolocation] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_geolocation] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\geolocation\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_google-signin] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\google-signin\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_google-signin] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\google-signin\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-community_masked-view] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_masked-view] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\masked-view\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-community_picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\@react-native-community\picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-apple-authentication] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-apple-authentication\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-apple-authentication] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-apple-authentication\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-dark-mode] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-dark-mode] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-dark-mode\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-fbsdk] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-fbsdk] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-fbsdk\android\build\intermediates\library_manifest\release\AndroidManifest.xml:24:5-26:41
+MERGED from [:react-native-gesture-handler] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-gesture-handler] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-gesture-handler\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iap] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-iap\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-iap] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-iap\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-maps] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-permissions\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-permissions] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-permissions\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-preference] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-preference\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-preference] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-preference\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-reanimated] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-reanimated\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-safe-area-context] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-safe-area-context] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-safe-area-context\android\build\intermediates\library_manifest\release\AndroidManifest.xml:5:5-7:41
+MERGED from [:react-native-screens] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-screens] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-screens\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-settings] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-settings\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-settings] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-settings\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-vector-icons] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-vector-icons\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-video\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:react-native-video] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-video\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-range-slider] C:\Users\Asif Hayat\Downloads\Archive\node_modules\rn-range-slider\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:rn-range-slider] C:\Users\Asif Hayat\Downloads\Archive\node_modules\rn-range-slider\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\949f0da900174d75f859b0b18417e89a\jetified-react-native-0.62.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.react:react-native:0.62.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\949f0da900174d75f859b0b18417e89a\jetified-react-native-0.62.2\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c2e259bbee742e175d5627c3cd894b3\facebook-android-sdk-4.42.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c2e259bbee742e175d5627c3cd894b3\facebook-android-sdk-4.42.0\AndroidManifest.xml:24:5-26:41
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\771410fc11db6cb0b8dfc4dd0e6f5f50\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [androidx.multidex:multidex:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\771410fc11db6cb0b8dfc4dd0e6f5f50\multidex-2.0.0\AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\184cb11431c6d82b6a40d6a9ebb353de\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fresco:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\184cb11431c6d82b6a40d6a9ebb353de\fresco-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ce2a33326d3ec635c92a605e8d0c2d79\animated-gif-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-gif:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ce2a33326d3ec635c92a605e8d0c2d79\animated-gif-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.android:facebook-login:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\5ea6617b81667828c2acd57ab4a13171\facebook-login-7.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\5ea6617b81667828c2acd57ab4a13171\facebook-login-7.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73a78ae790d6f40ab59bab17907f89e9\facebook-share-7.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73a78ae790d6f40ab59bab17907f89e9\facebook-share-7.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:25:5-27:41
+MERGED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:25:5-27:41
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\34c516ce44bd844d180db4e76fd54904\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.browser:browser:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\34c516ce44bd844d180db4e76fd54904\browser-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\95ee9f2b31970141c9161383f489e898\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-v4:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\95ee9f2b31970141c9161383f489e898\legacy-support-v4-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.github.tipsi:CreditCardEntry:1.5.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\195a09507841f5f703d73fca6dc45a93\jetified-CreditCardEntry-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.tipsi:CreditCardEntry:1.5.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\195a09507841f5f703d73fca6dc45a93\jetified-CreditCardEntry-1.5.1\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\d7f9cb6975ea0469ee210ab794bff94a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-ui:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\d7f9cb6975ea0469ee210ab794bff94a\legacy-support-core-ui-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\07b06405b39b3be793357b01e5d1b214\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.swiperefreshlayout:swiperefreshlayout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\07b06405b39b3be793357b01e5d1b214\swiperefreshlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f14551450b2d2daff74155cc82c0699e\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [org.webkit:android-jsc:r245459] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f14551450b2d2daff74155cc82c0699e\android-jsc-r245459\AndroidManifest.xml:7:5-9:41
+MERGED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\2fbc5b63809d7b06a5c184a2cf9a6b61\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\2fbc5b63809d7b06a5c184a2cf9a6b61\material-1.1.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ce1b988f6a4376bb1cae9ad2fe2be66\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ce1b988f6a4376bb1cae9ad2fe2be66\appcompat-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0ed43cca7ee2e11d410a6589032888f1\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-okhttp3:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0ed43cca7ee2e11d410a6589032888f1\imagepipeline-okhttp3-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\680b7e99e385aaf53d919af37038205a\animated-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-base:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\680b7e99e385aaf53d919af37038205a\animated-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\fab922b9a3c2bf8e98f8b843fe6abd97\animated-drawable-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:animated-drawable:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\fab922b9a3c2bf8e98f8b843fe6abd97\animated-drawable-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b031ca23cdf9ac98a528dbb75f351c9e\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:drawee:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b031ca23cdf9ac98a528dbb75f351c9e\drawee-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\48e3857c086b333d5379b2b00705947f\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagefilters:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\48e3857c086b333d5379b2b00705947f\nativeimagefilters-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ece4d4f1034e92606a840e9ead9b4faa\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ece4d4f1034e92606a840e9ead9b4faa\imagepipeline-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9de5520ee90f1216a891023c2978a8c2\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:nativeimagetranscoder:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9de5520ee90f1216a891023c2978a8c2\nativeimagetranscoder-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0c80b6cfb6ed6ea8a04d49c4ee1a32d5\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:imagepipeline-base:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0c80b6cfb6ed6ea8a04d49c4ee1a32d5\imagepipeline-base-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c534e0f8225a37890bfa0251eab02249\soloader-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:soloader:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c534e0f8225a37890bfa0251eab02249\soloader-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e479145edfb9b8ea87376f131c32fe04\facebook-places-4.42.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e479145edfb9b8ea87376f131c32fe04\facebook-places-4.42.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8cb82247b8feea37f655c3b050625d31\facebook-applinks-4.42.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8cb82247b8feea37f655c3b050625d31\facebook-applinks-4.42.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\69ef40a0f820a4c45af38cc3bdfc9cb0\facebook-messenger-4.42.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\69ef40a0f820a4c45af38cc3bdfc9cb0\facebook-messenger-4.42.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\94794cdb3c6394b2576413964fd6325a\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.facebook.fresco:fbcore:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\94794cdb3c6394b2576413964fd6325a\jetified-fbcore-2.0.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.braintreepayments.api:visa-checkout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0a0b05dfa94fbc9980a063f983fecd68\jetified-visa-checkout-1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.braintreepayments.api:visa-checkout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0a0b05dfa94fbc9980a063f983fecd68\jetified-visa-checkout-1.0.0\AndroidManifest.xml:8:5-10:41
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8484a7e728b1ecd07c230706606d05b7\jetified-paypal-one-touch-2.17.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.paypal.android.sdk:paypal-one-touch:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8484a7e728b1ecd07c230706606d05b7\jetified-paypal-one-touch-2.17.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:core:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1d4c000978ebe04b4323929ec5bb0deb\jetified-core-2.17.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments.api:core:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1d4c000978ebe04b4323929ec5bb0deb\jetified-core-2.17.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b40f5ce830d02bb669e19b6cee647d34\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b40f5ce830d02bb669e19b6cee647d34\appcompat-resources-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\31425e92ccf980736d3f0d9041b4c77b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\31425e92ccf980736d3f0d9041b4c77b\vectordrawable-animated-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bc80d9d3a673639deeedbf9ccbec7692\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bc80d9d3a673639deeedbf9ccbec7692\interpolator-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e98b461c5c1f5bd04c7afb8d23cd7eea\core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e98b461c5c1f5bd04c7afb8d23cd7eea\core-ktx-1.3.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\794b53cf168f83473f2e7756f3d9042a\play-services-wallet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-wallet:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\794b53cf168f83473f2e7756f3d9042a\play-services-wallet-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\145039580fb3d235431c1c8afab658b7\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\145039580fb3d235431c1c8afab658b7\play-services-auth-api-phone-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9c8ed2ab29239ad8b6dd515732be31bf\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-auth-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9c8ed2ab29239ad8b6dd515732be31bf\play-services-auth-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b167bc144fd8d49a3c20afcf1f5e14cb\play-services-identity-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-identity:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b167bc144fd8d49a3c20afcf1f5e14cb\play-services-identity-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\914e71b40bccc52ecf5145f0b88c040e\firebase-core-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-core:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\914e71b40bccc52ecf5145f0b88c040e\firebase-core-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\008c59bfd43fac15ffc3d4b5d43bed5b\firebase-analytics-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-analytics:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\008c59bfd43fac15ffc3d4b5d43bed5b\firebase-analytics-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bee2694cbec938e19b580b4cbda96511\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-iid-interop:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bee2694cbec938e19b580b4cbda96511\firebase-iid-interop-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c74caaeb77f4dc0290281c95009ceaa\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-tasks:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c74caaeb77f4dc0290281c95009ceaa\play-services-tasks-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0267245becba42ae9fc881132a8e1725\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0267245becba42ae9fc881132a8e1725\play-services-measurement-sdk-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6d1209bfd56ba51efa8a191d7ee50bce\play-services-measurement-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-measurement-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6d1209bfd56ba51efa8a191d7ee50bce\play-services-measurement-base-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\87d3493ca0b17e21dbef960e4d009c72\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-stats:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\87d3493ca0b17e21dbef960e4d009c72\play-services-stats-17.0.0\AndroidManifest.xml:5:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ca93dfa3f11252b293377665a3c68c9\jetified-firebase-measurement-connector-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.firebase:firebase-measurement-connector:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ca93dfa3f11252b293377665a3c68c9\jetified-firebase-measurement-connector-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\74331e07bc88bc55ed7dafa4063f7646\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-ads-identifier:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\74331e07bc88bc55ed7dafa4063f7646\play-services-ads-identifier-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\62a02c76b665b9dd39e11f26b60878a2\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\62a02c76b665b9dd39e11f26b60878a2\viewpager2-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\104a9e3a7fc4e02ab971e4b9f1294914\fragment-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.3.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\104a9e3a7fc4e02ab971e4b9f1294914\fragment-1.3.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9252f6e71b4c1f4d269698426aa2ce3a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9252f6e71b4c1f4d269698426aa2ce3a\coordinatorlayout-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1e14f676b2d5e21c01d3dc462d8d2a26\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1e14f676b2d5e21c01d3dc462d8d2a26\cardview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\27dd7a083dc6509bedb99b9b92bd0728\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\27dd7a083dc6509bedb99b9b92bd0728\viewpager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\46c5116914a0df4d51f5c3da352a5baa\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\46c5116914a0df4d51f5c3da352a5baa\legacy-support-core-utils-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\114421f37d2c61ce454fb0696b05d7af\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\114421f37d2c61ce454fb0696b05d7af\loader-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.activity:activity:1.2.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\96bf335a39103e90c3ddefa0e8e9d3c4\activity-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.2] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\96bf335a39103e90c3ddefa0e8e9d3c4\activity-1.2.2\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bdcd414909f3da4267ca0087d1b83b55\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.drawerlayout:drawerlayout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bdcd414909f3da4267ca0087d1b83b55\drawerlayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c95761e43dad87bc7c668723dc8469a5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c95761e43dad87bc7c668723dc8469a5\slidingpanelayout-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f4fa81712f689164b9674461b711b992\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f4fa81712f689164b9674461b711b992\recyclerview-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\712628738107de7d50bc462e3ee4856f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\712628738107de7d50bc462e3ee4856f\customview-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\38c4315b1f8465e740e8cdca8784edcd\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.2.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\38c4315b1f8465e740e8cdca8784edcd\transition-1.2.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4e050a5b705b14f79da02806d5fe0d49\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4e050a5b705b14f79da02806d5fe0d49\vectordrawable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4892cffec80ea538e461c609af55fb98\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.media:media:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4892cffec80ea538e461c609af55fb98\media-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\3c06f73da226d7eef38ff80d69297a5f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.asynclayoutinflater:asynclayoutinflater:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\3c06f73da226d7eef38ff80d69297a5f\asynclayoutinflater-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c2e09830689c9704bd657110dbc2432d\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c2e09830689c9704bd657110dbc2432d\core-1.3.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\af5c786a454f82b1d6cdd4c33732b9b8\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\af5c786a454f82b1d6cdd4c33732b9b8\versionedparcelable-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\5530ffb07103015ce7fe05d14dcee130\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\5530ffb07103015ce7fe05d14dcee130\lifecycle-viewmodel-savedstate-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\28c775e91aea1d4fc36ed6149af27411\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\28c775e91aea1d4fc36ed6149af27411\lifecycle-viewmodel-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\be0a8b4b8fbb9ddd5b015953bcf05033\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\be0a8b4b8fbb9ddd5b015953bcf05033\savedstate-1.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c4ba048c033fde3d9a1f7a09cf890449\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c4ba048c033fde3d9a1f7a09cf890449\cursoradapter-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\66a41da43a8d74d61af476d9dbcfc013\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\66a41da43a8d74d61af476d9dbcfc013\lifecycle-runtime-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4fe151db6da6e3e788b713ccbea8e0ba\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4fe151db6da6e3e788b713ccbea8e0ba\tracing-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0bf038920b7c5c30d6710a6731ce4014\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\0bf038920b7c5c30d6710a6731ce4014\lifecycle-livedata-2.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4c7b822a31cafea7013e8cabaed420ea\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4c7b822a31cafea7013e8cabaed420ea\lifecycle-livedata-core-2.3.1\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\016c21bedda6fcb93a33319a1e9fcce4\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\016c21bedda6fcb93a33319a1e9fcce4\core-runtime-2.1.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dd740fc1814679da772ff670ef447f4d\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dd740fc1814679da772ff670ef447f4d\documentfile-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8380db55bc9cc848ec419c9f40fc60e5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8380db55bc9cc848ec419c9f40fc60e5\localbroadcastmanager-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\61077e195348424e867b64910f42800b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\61077e195348424e867b64910f42800b\print-1.0.0\AndroidManifest.xml:20:5-44
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f9f7f0ffa347816ca7ff32fddc368633\WheelPicker-1.0.3\AndroidManifest.xml:8:5-10:41
+MERGED from [cn.aigestudio.wheelpicker:WheelPicker:1.0.3] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f9f7f0ffa347816ca7ff32fddc368633\WheelPicker-1.0.3\AndroidManifest.xml:8:5-10:41
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:6:5-8:41
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f0413872e816ea70264aa4590f271f9e\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f0413872e816ea70264aa4590f271f9e\jetified-android-maps-utils-0.5\AndroidManifest.xml:5:5-43
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\a781144d00017143bb580ebbea4a11f2\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.yqritc:android-scalablevideoview:1.0.4] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\a781144d00017143bb580ebbea4a11f2\jetified-android-scalablevideoview-1.0.4\AndroidManifest.xml:8:5-10:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\19bdee4a7084687ef98c18ffb299560f\annotation-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.facebook.soloader:annotation:0.8.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\19bdee4a7084687ef98c18ffb299560f\annotation-0.8.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.braintreepayments:browser-switch:0.1.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e3731a764aeefeff40a8679067edd538\jetified-browser-switch-0.1.5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.braintreepayments:browser-switch:0.1.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\e3731a764aeefeff40a8679067edd538\jetified-browser-switch-0.1.5\AndroidManifest.xml:8:5-10:41
+MERGED from [com.paypal.android.sdk:data-collector:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ef0714b6b3ab2106588abe1e09725811\jetified-data-collector-2.17.0\AndroidManifest.xml:7:5-9:41
+MERGED from [com.paypal.android.sdk:data-collector:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ef0714b6b3ab2106588abe1e09725811\jetified-data-collector-2.17.0\AndroidManifest.xml:7:5-9:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b68abb5f9fbf9510a61dedf242bd3c08\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\b68abb5f9fbf9510a61dedf242bd3c08\annotation-experimental-1.0.0\AndroidManifest.xml:20:5-22:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\aba0efe0a5c4a1dd4d5185f3b6b49394\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\aba0efe0a5c4a1dd4d5185f3b6b49394\jetified-installreferrer-1.0\AndroidManifest.xml:5:5-7:41
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml
+provider#com.imagepicker.FileProvider
+ADDED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:9-18:20
+	android:grantUriPermissions
+		ADDED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-47
+	android:authorities
+		ADDED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:13-60
+	android:exported
+		ADDED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-37
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:11:13-56
+meta-data#android.support.FILE_PROVIDER_PATHS
+ADDED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-17:58
+	android:resource
+		ADDED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:17-55
+	android:name
+		ADDED from [:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:17-67
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from [:react-native-maps] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:5-81
+	android:name
+		ADDED from [:react-native-maps] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\release\AndroidManifest.xml:10:22-78
+activity#com.gettipsi.stripe.OpenBrowserActivity
+ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:12:9-16:75
+	android:launchMode
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:15:13-44
+	android:exported
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:14:13-37
+	android:theme
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:16:13-72
+	android:name
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:13:13-67
+activity#com.gettipsi.stripe.RedirectUriReceiver
+ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:17:9-30:20
+	android:launchMode
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:20:13-44
+	android:exported
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:19:13-36
+	android:theme
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:21:13-83
+	android:name
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:18:13-67
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:scheme:example
+ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:22:13-29:29
+action#android.intent.action.VIEW
+ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:23:17-69
+	android:name
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:23:25-66
+category#android.intent.category.DEFAULT
+ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:17-76
+	android:name
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:25:27-73
+category#android.intent.category.BROWSABLE
+ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:26:17-78
+	android:name
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:26:27-75
+data
+ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:28:17-50
+	android:scheme
+		ADDED from [:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\release\AndroidManifest.xml:28:23-47
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:11:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:23:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:22:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:24:5-79
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:24:5-79
+	android:name
+		ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:11:22-76
+activity#com.braintreepayments.api.AndroidPayActivity
+ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:15:9-17:62
+	android:theme
+		ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:17:13-59
+	android:name
+		ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:16:13-72
+activity#com.braintreepayments.api.GooglePaymentActivity
+ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:18:9-20:62
+	android:theme
+		ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:20:13-59
+	android:name
+		ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:19:13-75
+activity#com.braintreepayments.api.threedsecure.ThreeDSecureWebViewActivity
+ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:21:9-103
+	android:name
+		ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:21:19-100
+service#com.braintreepayments.api.internal.AnalyticsIntentService
+ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:23:9-93
+	android:name
+		ADDED from [com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:23:18-90
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:34:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:34:19-68
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.${applicationId}+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:39:13-48:29
+intent-filter#action:name:android.intent.action.VIEW+category:name:android.intent.category.BROWSABLE+category:name:android.intent.category.DEFAULT+data:host:cct.com.rn.openforhouse+data:scheme:fbconnect
+ADDED from [com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:39:13-48:29
+activity#com.stripe.android.view.AddSourceActivity
+ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:12:9-16:20
+	android:windowSoftInputMode
+		ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:15:13-55
+	android:theme
+		ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:14:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:13:13-69
+activity#com.stripe.android.view.PaymentMethodsActivity
+ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:17:9-20:20
+	android:theme
+		ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:19:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:18:13-74
+activity#com.stripe.android.view.PaymentFlowActivity
+ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:21:9-24:20
+	android:theme
+		ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:23:13-54
+	android:name
+		ADDED from [com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:22:13-71
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:40:13-70
+receiver#com.facebook.CurrentAccessTokenExpirationBroadcastReceiver
+ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:44:9-50:20
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:45:13-86
+intent-filter#action:name:com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:47:13-49:29
+action#com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED
+ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:48:17-95
+	android:name
+		ADDED from [com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:48:25-92
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:24:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:25:5-68
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:25:5-68
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:24:22-65
+service#com.google.firebase.components.ComponentDiscoveryService
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:27:9-33:19
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:29:9-35:19
+MERGED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:29:9-35:19
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:28:13-84
+meta-data#com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar
+ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:30:13-32:85
+	android:value
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:32:17-82
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:31:17-139
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:26:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:26:22-79
+meta-data#com.google.firebase.components:com.google.firebase.iid.Registrar
+ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:32:13-34:85
+	android:value
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:34:17-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:33:17-96
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:37:9-44:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:39:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:40:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:38:13-78
+intent-filter#action:name:com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:41:13-43:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:42:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:42:25-78
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:50:9-56:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:52:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:51:13-77
+intent-filter#action:name:com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:53:13-55:29
+	android:priority
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:53:28-51
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:54:17-80
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:54:25-77
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:12:9-16:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:14:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:15:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:16:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:13:13-77
+uses-permission#com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:26:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\aba0efe0a5c4a1dd4d5185f3b6b49394\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+MERGED from [com.android.installreferrer:installreferrer:1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\aba0efe0a5c4a1dd4d5185f3b6b49394\jetified-installreferrer-1.0\AndroidManifest.xml:9:5-110
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:26:22-107
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:29:9-33:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:31:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:32:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:30:13-85
+receiver#com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:34:9-42:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-impl:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7db6cf2171a7e149e5ba3f0d21a2074b\play-services-measurement-impl-17.0.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:29:9-37:20
+MERGED from [com.google.android.gms:play-services-measurement-sdk-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\23f182d4b39b874c75f21a39e7f1290c\play-services-measurement-sdk-api-17.0.0\AndroidManifest.xml:29:9-37:20
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:36:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:37:13-36
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:38:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:35:13-100
+intent-filter#action:name:com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:39:13-41:29
+action#com.android.vending.INSTALL_REFERRER
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:40:17-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:40:25-76
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:44:9-47:40
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:46:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:45:13-84
+service#com.google.android.gms.measurement.AppMeasurementJobService
+ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:48:9-52:72
+	android:enabled
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:50:13-35
+	android:exported
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:51:13-37
+	android:permission
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:52:13-69
+	android:name
+		ADDED from [com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:49:13-87
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f0413872e816ea70264aa4590f271f9e\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+MERGED from [com.google.maps.android:android-maps-utils:0.5] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\f0413872e816ea70264aa4590f271f9e\jetified-android-maps-utils-0.5\AndroidManifest.xml:8:9-10:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+uses-permission#com.android.vending.BILLING
+ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:10:5-67
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:10:22-64
+meta-data#com.google.android.play.billingclient.version
+ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:13:9-15:37
+	android:value
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:15:13-34
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:14:13-73
+activity#com.android.billingclient.api.ProxyBillingActivity
+ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:17:9-20:75
+	android:configChanges
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:19:13-96
+	android:theme
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:20:13-72
+	android:name
+		ADDED from [com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:18:13-78

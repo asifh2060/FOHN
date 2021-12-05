@@ -1,0 +1,464 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="com.rn.openforhouse"
+4    android:versionCode="5"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="21"
+9        android:targetSdkVersion="30" />
+10
+11    <uses-permission android:name="android.permission.SYSTEM_ALERT_WINDOW" />
+11-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:7:3-76
+11-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:7:20-73
+12    <uses-permission android:name="android.permission.INTERNET" />
+12-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:3:3-65
+12-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:3:20-62
+13    <uses-permission android:name="android.permission.CAMERA" />
+13-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:4:3-63
+13-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:4:20-60
+14    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+14-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:5:3-78
+14-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:5:20-75
+15    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+15-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:6:3-79
+15-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:6:20-76
+16    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+16-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:8:3-77
+16-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:8:20-74
+17    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+17-->[com.facebook.flipper:flipper:0.46.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c4d3e47d0e3df95b810c226ce3b10bdf\flipper-0.46.0\AndroidManifest.xml:16:5-76
+17-->[com.facebook.flipper:flipper:0.46.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c4d3e47d0e3df95b810c226ce3b10bdf\flipper-0.46.0\AndroidManifest.xml:16:22-73
+18    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+18-->[:react-native-maps] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:5-81
+18-->[:react-native-maps] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-maps\lib\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:22-78
+19    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+19-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:11:5-79
+19-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:11:22-76
+20
+21    <uses-feature
+21-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:26:5-28:35
+22        android:glEsVersion="0x00020000"
+22-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:27:9-41
+23        android:required="true" />
+23-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:28:9-32
+24
+25    <uses-permission android:name="android.permission.WAKE_LOCK" /> <!-- Required by older versions of Google Play services to create IID tokens -->
+25-->[com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:24:5-68
+25-->[com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:24:22-65
+26    <uses-permission android:name="com.google.android.c2dm.permission.RECEIVE" />
+26-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:26:5-82
+26-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:26:22-79
+27    <uses-permission android:name="com.google.android.finsky.permission.BIND_GET_INSTALL_REFERRER_SERVICE" />
+27-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:26:5-110
+27-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:26:22-107
+28    <uses-permission android:name="com.android.vending.BILLING" />
+28-->[com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:10:5-67
+28-->[com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:10:22-64
+29
+30    <application
+30-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:10:3-28:17
+31        android:name="com.rn.openforhouse.MainApplication"
+31-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:3-34
+32        android:allowBackup="false"
+32-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:149-176
+33        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+33-->[androidx.core:core:1.3.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\c2e09830689c9704bd657110dbc2432d\core-1.3.0\AndroidManifest.xml:24:18-86
+34        android:debuggable="true"
+35        android:icon="@mipmap/ic_launcher"
+35-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:68-102
+36        android:label="@string/app_name"
+36-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:35-67
+37        android:roundIcon="@mipmap/ic_launcher_round"
+37-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:11:103-148
+38        android:supportsRtl="true"
+38-->[com.facebook.android:facebook-android-sdk:4.42.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\6c2e259bbee742e175d5627c3cd894b3\facebook-android-sdk-4.42.0\AndroidManifest.xml:28:18-44
+39        android:theme="@style/AppTheme"
+39-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:12:4-35
+40        android:usesCleartextTraffic="true" >
+40-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:13:4-39
+41        <meta-data
+41-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:14:5-103
+42            android:name="com.facebook.sdk.ApplicationId"
+42-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:14:16-61
+43            android:value="@string/facebook_app_id" />
+43-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:14:62-101
+44
+45        <activity
+45-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:16:5-17:114
+46            android:name="com.facebook.FacebookActivity"
+46-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:16:15-59
+47            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+47-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:16:60-160
+48            android:label="@string/app_name"
+48-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:17:79-111
+49            android:theme="@style/com_facebook_activity_theme" />
+49-->[com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:33:13-63
+50        <activity
+50-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:18:5-19:16
+51            android:name="com.facebook.CustomTabActivity"
+51-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:18:15-60
+52            android:exported="true" >
+52-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:18:61-84
+53            <intent-filter>
+53-->[com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:39:13-48:29
+54                <action android:name="android.intent.action.VIEW" />
+54-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:17-69
+54-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:25-66
+55
+56                <category android:name="android.intent.category.DEFAULT" />
+56-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-76
+56-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:27-73
+57                <category android:name="android.intent.category.BROWSABLE" />
+57-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-78
+57-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:27-75
+58
+59                <data
+59-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:17-50
+60                    android:host="cct.com.rn.openforhouse"
+61                    android:scheme="fbconnect" />
+61-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:23-47
+62            </intent-filter>
+63        </activity>
+64
+65        <meta-data
+65-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:20:5-120
+66            android:name="com.google.android.geo.API_KEY"
+66-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:20:16-61
+67            android:value="AIzaSyDD4wosTgxAGxjTKfG1kN_QJTqStTudWG8" />
+67-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:20:62-117
+68
+69        <activity
+69-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:5-26:16
+70            android:name="com.rn.openforhouse.MainActivity"
+70-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:15-43
+71            android:configChanges="keyboard|keyboardHidden|orientation|screenSize|uiMode"
+71-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:77-154
+72            android:label="@string/app_name"
+72-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:44-76
+73            android:launchMode="singleTask"
+73-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:155-186
+74            android:windowSoftInputMode="adjustResize" >
+74-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:21:187-229
+75            <intent-filter>
+75-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:22:7-25:23
+76                <action android:name="android.intent.action.MAIN" />
+76-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:23:9-61
+76-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:23:17-58
+77
+78                <category android:name="android.intent.category.LAUNCHER" />
+78-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:24:9-69
+78-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:24:19-66
+79            </intent-filter>
+80        </activity>
+81        <activity android:name="com.facebook.react.devsupport.DevSettingsActivity" />
+81-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:27:5-82
+81-->C:\Users\Asif Hayat\Downloads\Archive\android\app\src\main\AndroidManifest.xml:27:15-79
+82
+83        <provider
+83-->[:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:10:9-18:20
+84            android:name="com.imagepicker.FileProvider"
+84-->[:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:11:13-56
+85            android:authorities="com.rn.openforhouse.provider"
+85-->[:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:13-60
+86            android:exported="false"
+86-->[:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-37
+87            android:grantUriPermissions="true" >
+87-->[:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-47
+88            <meta-data
+88-->[:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-17:58
+89                android:name="android.support.FILE_PROVIDER_PATHS"
+89-->[:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:17-67
+90                android:resource="@xml/provider_paths" />
+90-->[:react-native-image-picker] C:\Users\Asif Hayat\Downloads\Archive\node_modules\react-native-image-picker\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:17-55
+91        </provider>
+92
+93        <activity
+93-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:12:9-16:75
+94            android:name="com.gettipsi.stripe.OpenBrowserActivity"
+94-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:13:13-67
+95            android:exported="false"
+95-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:14:13-37
+96            android:launchMode="singleTask"
+96-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:15:13-44
+97            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+97-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:16:13-72
+98        <activity
+98-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:17:9-30:20
+99            android:name="com.gettipsi.stripe.RedirectUriReceiver"
+99-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:18:13-67
+100            android:exported="true"
+100-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:19:13-36
+101            android:launchMode="singleTask"
+101-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:20:13-44
+102            android:theme="@android:style/Theme.Translucent.NoTitleBar.Fullscreen" >
+102-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:21:13-83
+103            <intent-filter>
+103-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:22:13-29:29
+104                <action android:name="android.intent.action.VIEW" />
+104-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:17-69
+104-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:23:25-66
+105
+106                <category android:name="android.intent.category.DEFAULT" />
+106-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:17-76
+106-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:25:27-73
+107                <category android:name="android.intent.category.BROWSABLE" />
+107-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:17-78
+107-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:26:27-75
+108
+109                <data android:scheme="example" />
+109-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:17-50
+109-->[:tipsi-stripe] C:\Users\Asif Hayat\Downloads\Archive\node_modules\tipsi-stripe\android\build\intermediates\library_manifest\debug\AndroidManifest.xml:28:23-47
+110            </intent-filter>
+111        </activity>
+112        <activity
+112-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:15:9-17:62
+113            android:name="com.braintreepayments.api.AndroidPayActivity"
+113-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:16:13-72
+114            android:theme="@style/bt_transparent_activity" />
+114-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:17:13-59
+115        <activity
+115-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:18:9-20:62
+116            android:name="com.braintreepayments.api.GooglePaymentActivity"
+116-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:19:13-75
+117            android:theme="@style/bt_transparent_activity" />
+117-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:20:13-59
+118        <activity android:name="com.braintreepayments.api.threedsecure.ThreeDSecureWebViewActivity" />
+118-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:21:9-103
+118-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:21:19-100
+119
+120        <service android:name="com.braintreepayments.api.internal.AnalyticsIntentService" />
+120-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:23:9-93
+120-->[com.braintreepayments.api:braintree:2.17.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\bd18e64f4307a7eb33ec531df49e0d34\jetified-braintree-2.17.0\AndroidManifest.xml:23:18-90
+121
+122        <activity android:name="com.facebook.CustomTabMainActivity" />
+122-->[com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:34:9-71
+122-->[com.facebook.android:facebook-common:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\9fe1e75e636a73c479768bbcf5fa8b87\facebook-common-7.1.0\AndroidManifest.xml:34:19-68
+123        <!--
+124         The initialization ContentProvider will call FacebookSdk.sdkInitialize automatically
+125         with the application context. This config is merged in with the host app's manifest,
+126         but there can only be one provider with the same authority activated at any given
+127         point; so if the end user has two or more different apps that use Facebook SDK, only the
+128         first one will be able to use the provider. To work around this problem, we use the
+129         following placeholder in the authority to identify each host application as if it was
+130         a completely different provider.
+131        -->
+132        <provider
+132-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:39:9-42:40
+133            android:name="com.facebook.internal.FacebookInitProvider"
+133-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:40:13-70
+134            android:authorities="com.rn.openforhouse.FacebookInitProvider"
+134-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:41:13-72
+135            android:exported="false" />
+135-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:42:13-37
+136
+137        <receiver
+137-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:44:9-50:20
+138            android:name="com.facebook.CurrentAccessTokenExpirationBroadcastReceiver"
+138-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:45:13-86
+139            android:exported="false" >
+139-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:46:13-37
+140            <intent-filter>
+140-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:47:13-49:29
+141                <action android:name="com.facebook.sdk.ACTION_CURRENT_ACCESS_TOKEN_CHANGED" />
+141-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:48:17-95
+141-->[com.facebook.android:facebook-core:7.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1303a5a1ff62048ff087c9d51663bbd0\jetified-facebook-core-7.1.0\AndroidManifest.xml:48:25-92
+142            </intent-filter>
+143        </receiver>
+144
+145        <activity
+145-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:12:9-16:20
+146            android:name="com.stripe.android.view.AddSourceActivity"
+146-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:13:13-69
+147            android:theme="@style/StripeDefaultTheme"
+147-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:14:13-54
+148            android:windowSoftInputMode="stateVisible" >
+148-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:15:13-55
+149        </activity>
+150        <activity
+150-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:17:9-20:20
+151            android:name="com.stripe.android.view.PaymentMethodsActivity"
+151-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:18:13-74
+152            android:theme="@style/StripeDefaultTheme" >
+152-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:19:13-54
+153        </activity>
+154        <activity
+154-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:21:9-24:20
+155            android:name="com.stripe.android.view.PaymentFlowActivity"
+155-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:22:13-71
+156            android:theme="@style/StripeDefaultTheme" >
+156-->[com.stripe:stripe-android:8.1.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\299e5771cb1e66b01e055ab84c53846f\jetified-stripe-android-8.1.0\AndroidManifest.xml:23:13-54
+157        </activity>
+158        <activity
+158-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:23:9-27:75
+159            android:name="com.google.android.gms.auth.api.signin.internal.SignInHubActivity"
+159-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:24:13-93
+160            android:excludeFromRecents="true"
+160-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:25:13-46
+161            android:exported="false"
+161-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:26:13-37
+162            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+162-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:27:13-72
+163        <!--
+164            Service handling Google Sign-In user revocation. For apps that do not integrate with
+165            Google Sign-In, this service will never be started.
+166        -->
+167        <service
+167-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:33:9-36:110
+168            android:name="com.google.android.gms.auth.api.signin.RevocationBoundService"
+168-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:34:13-89
+169            android:exported="true"
+169-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:35:13-36
+170            android:permission="com.google.android.gms.auth.api.signin.permission.REVOCATION_NOTIFICATION" /> <!-- Needs to be explicitly declared on P+ -->
+170-->[com.google.android.gms:play-services-auth:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\4178a181cde544ec5ee9f291d5575d70\play-services-auth-17.0.0\AndroidManifest.xml:36:13-107
+171        <uses-library
+171-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:33:9-35:40
+172            android:name="org.apache.http.legacy"
+172-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:34:13-50
+173            android:required="false" />
+173-->[com.google.android.gms:play-services-maps:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\1559e66f5c6551e8c06fb5cdae826bc2\play-services-maps-17.0.0\AndroidManifest.xml:35:13-37
+174
+175        <service
+175-->[com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:27:9-33:19
+176            android:name="com.google.firebase.components.ComponentDiscoveryService"
+176-->[com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:28:13-84
+177            android:exported="false" >
+177-->[com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:29:13-37
+178            <meta-data
+178-->[com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:30:13-32:85
+179                android:name="com.google.firebase.components:com.google.firebase.analytics.connector.internal.AnalyticsConnectorRegistrar"
+179-->[com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:31:17-139
+180                android:value="com.google.firebase.components.ComponentRegistrar" />
+180-->[com.google.android.gms:play-services-measurement-api:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\73339ac8aa8b672e4d96ea78fcd14d7e\play-services-measurement-api-17.0.0\AndroidManifest.xml:32:17-82
+181            <meta-data
+181-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:32:13-34:85
+182                android:name="com.google.firebase.components:com.google.firebase.iid.Registrar"
+182-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:33:17-96
+183                android:value="com.google.firebase.components.ComponentRegistrar" />
+183-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:34:17-82
+184        </service>
+185
+186        <receiver
+186-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:37:9-44:20
+187            android:name="com.google.firebase.iid.FirebaseInstanceIdReceiver"
+187-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:38:13-78
+188            android:exported="true"
+188-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:39:13-36
+189            android:permission="com.google.android.c2dm.permission.SEND" >
+189-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:40:13-73
+190            <intent-filter>
+190-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:41:13-43:29
+191                <action android:name="com.google.android.c2dm.intent.RECEIVE" />
+191-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:42:17-81
+191-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:42:25-78
+192            </intent-filter>
+193        </receiver>
+194        <!--
+195             FirebaseInstanceIdService performs security checks at runtime,
+196             no need for explicit permissions despite exported="true"
+197        -->
+198        <service
+198-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:50:9-56:19
+199            android:name="com.google.firebase.iid.FirebaseInstanceIdService"
+199-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:51:13-77
+200            android:exported="true" >
+200-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:52:13-36
+201            <intent-filter android:priority="-500" >
+201-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:53:13-55:29
+201-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:53:28-51
+202                <action android:name="com.google.firebase.INSTANCE_ID_EVENT" />
+202-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:54:17-80
+202-->[com.google.firebase:firebase-iid:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\7ec8cb5d1b916303b77ef1f2e71a36bf\jetified-firebase-iid-17.0.0\AndroidManifest.xml:54:25-77
+203            </intent-filter>
+204        </service>
+205
+206        <activity
+206-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:23:9-26:75
+207            android:name="com.google.android.gms.common.api.GoogleApiActivity"
+207-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:24:13-79
+208            android:exported="false"
+208-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:25:13-37
+209            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+209-->[com.google.android.gms:play-services-base:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\dc2931c7c4f60ca9a52b7fc59c3e7aba\play-services-base-17.0.0\AndroidManifest.xml:26:13-72
+210
+211        <provider
+211-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:12:9-16:39
+212            android:name="com.google.firebase.provider.FirebaseInitProvider"
+212-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:13:13-77
+213            android:authorities="com.rn.openforhouse.firebaseinitprovider"
+213-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:14:13-72
+214            android:exported="false"
+214-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:15:13-37
+215            android:initOrder="100" />
+215-->[com.google.firebase:firebase-common:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\561696b7d58ae38855937f3ef06eec77\jetified-firebase-common-17.0.0\AndroidManifest.xml:16:13-36
+216
+217        <receiver
+217-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:29:9-33:20
+218            android:name="com.google.android.gms.measurement.AppMeasurementReceiver"
+218-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:30:13-85
+219            android:enabled="true"
+219-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:31:13-35
+220            android:exported="false" >
+220-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:32:13-37
+221        </receiver>
+222        <receiver
+222-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:34:9-42:20
+223            android:name="com.google.android.gms.measurement.AppMeasurementInstallReferrerReceiver"
+223-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:35:13-100
+224            android:enabled="true"
+224-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:36:13-35
+225            android:exported="true"
+225-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:37:13-36
+226            android:permission="android.permission.INSTALL_PACKAGES" >
+226-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:38:13-69
+227            <intent-filter>
+227-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:39:13-41:29
+228                <action android:name="com.android.vending.INSTALL_REFERRER" />
+228-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:40:17-79
+228-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:40:25-76
+229            </intent-filter>
+230        </receiver>
+231
+232        <service
+232-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:44:9-47:40
+233            android:name="com.google.android.gms.measurement.AppMeasurementService"
+233-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:45:13-84
+234            android:enabled="true"
+234-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:46:13-35
+235            android:exported="false" />
+235-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:47:13-37
+236        <service
+236-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:48:9-52:72
+237            android:name="com.google.android.gms.measurement.AppMeasurementJobService"
+237-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:49:13-87
+238            android:enabled="true"
+238-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:50:13-35
+239            android:exported="false"
+239-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:51:13-37
+240            android:permission="android.permission.BIND_JOB_SERVICE" />
+240-->[com.google.android.gms:play-services-measurement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\237bed3b32def47cb366dcea2135b0fa\play-services-measurement-17.0.0\AndroidManifest.xml:52:13-69
+241
+242        <meta-data
+242-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:23:9-25:69
+243            android:name="com.google.android.gms.version"
+243-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:24:13-58
+244            android:value="@integer/google_play_services_version" />
+244-->[com.google.android.gms:play-services-basement:17.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\8413dfad5d6b685393b2e748a9f2315f\jetified-play-services-basement-17.0.0\AndroidManifest.xml:25:13-66
+245        <meta-data
+245-->[com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:13:9-15:37
+246            android:name="com.google.android.play.billingclient.version"
+246-->[com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:14:13-73
+247            android:value="3.0.0" />
+247-->[com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:15:13-34
+248
+249        <activity
+249-->[com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:17:9-20:75
+250            android:name="com.android.billingclient.api.ProxyBillingActivity"
+250-->[com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:18:13-78
+251            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+251-->[com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:19:13-96
+252            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+252-->[com.android.billingclient:billing:3.0.0] C:\Users\Asif Hayat\.gradle\caches\transforms-2\files-2.1\ebab78d341a5784c06e89aea71dcafc7\billing-3.0.0\AndroidManifest.xml:20:13-72
+253    </application>
+254
+255</manifest>
