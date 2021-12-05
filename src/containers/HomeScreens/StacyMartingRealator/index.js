@@ -127,6 +127,7 @@ export default class StacyMartinRealator extends Component {
             console.log('getUserDetailApi realtor detail Response: ' + JSON.stringify(response));
             if (response.status === "200") {
                 let instance = response.body;
+              
                 this.setState({
                     id: instance.id,
                     banner_photo: instance.cover_photo,
@@ -135,7 +136,7 @@ export default class StacyMartinRealator extends Component {
                     long_description: instance.long_description,
                     email: instance.email,
                     name: instance.name,
-                    phone: instance.phone,
+                    phone: instance.billing_phone,
                     address: instance.address,
                     facebook: instance.facebook,
                     twitter: instance.twitter,
